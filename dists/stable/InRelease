@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Sat, 07 Nov 2026 17:13:58 +0000
+Label: Mio
+Origin: MioKobo
+Suite: stable
+MD5Sum:
+ 0ae489784449f7dbc8c2425d3c697816             1228 main/binary-amd64/Packages
+ 6ab92cf39cc8de587fff62d61b402747              652 main/binary-amd64/Packages.gz
+SHA1:
+ 19268f1cdc40901edc9db6a3e8e0e14d81642415             1228 main/binary-amd64/Packages
+ a1222cbecb1564ce559f626c317440e3a371d1d9              652 main/binary-amd64/Packages.gz
+SHA256:
+ bb5524376ffb39cbd303a21e6a5bb221d1d785aacefcc381f894969c4b928818             1228 main/binary-amd64/Packages
+ 3a7c615f5e39041131d91a1915f44da856583c7d8c70d4a5061bc09d5aa25a43              652 main/binary-amd64/Packages.gz
+SHA512:
+ 0838666a94b3d91fa632f966f94ee053d0e9842501225c986c5154ccce4ca58218b57a0c10fd12007214d820daacb564de674fd8306515673bf45caeb84654e5             1228 main/binary-amd64/Packages
+ 56be591cf06b19e6b83da31efb58c7b4d59eb923acb7b32a1f1a8e7796eb8a13dfb24b46b783815c967c882e6ae0dcd188c3dd95d2a930c8d77f08260d27669e              652 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEE6IqM5H+BQ6hmeSPlhTTtgKRmW1YFAmrvXFYACgkQhTTtgKRm
+W1bUlQv8Dq2rGjjGSNICHToYm/8PYJ46ZR92OocDklpNQbyad7priVoHhJHmbWZ3
+R9p79wt6GibHmPY3BnwpdgDBgQhf+9P4iV4ydoB9CoSYN04d0ykywFy6C/0uBj2w
+QERtz9xLyoyW9cDsf7QaiqnOfpWxD/UeprVGlm9iLL5ZvOFnnZRriPIDQy5Agt9J
+ykbjL3Li8EV89tEjPiyLA7OBNTV0ghViSS14vvJnXIHnJOTjuBokYGndOd1YQpDI
+v2UQGHEHd7EEWoDqEZ8zOxWJahK72C+XynjFNSRwQM4NWYn6vWsdA+NMZMcnTm2G
+L2ajbSxPa3Ppxs5qlPoyGGzir0WefU0vyYpU0fSIu6ggkV6OS4JOfXZy81tVb+NX
+kzlouILHtm+NhyWmRyotpKfBZ9t71ehi7ecYcMNwQuO9vD91IP3XZ8D51WPfisl2
+AAW50XZjLzlG/C7vYycs3RfHDEYVYySb6kDzsZk1WRhO3nUNwLXAZiKl/jWH06pE
+pte+HSvk
+=V5Wm
+-----END PGP SIGNATURE-----

@@ -1,0 +1,34 @@
+Package: mio-core
+Architecture: amd64
+Version: 2.1.0
+Priority: optional
+Section: devel
+Maintainer: Mio Kobo <maintainers@mio-lang.org>
+Conflicts: mio
+Replaces: mio
+Filename: pool/main/m/mio/mio-core_2.1.0_amd64.deb
+Size: 436790
+MD5sum: da8d6c496e0d2c8d62c57bc40e1434d6
+SHA1: 267767b16133329e0888a2b168abdee50190ef22
+SHA256: da80358c6efb3f4bdfd7eab638a63b9eacfeb0a68239abc3881c3793da5d918f
+SHA512: 0d1ae12eeefe1f7508a3035984a33640ff17ca211caf502692afbdbafffee9e7ae04022ea9f6dc5703042b57120d08d98b0f0fc1b780ee0b911443b5f4cd7618
+Homepage: https://github.com/mio-kobo/mio
+Description: Mio programming language (core)
+
+Package: mio
+Architecture: amd64
+Version: 2.1.0
+Priority: optional
+Section: devel
+Maintainer: Mio Kobo <maintainers@mio-lang.org>
+Conflicts: mio-core
+Replaces: mio-core
+Filename: pool/main/m/mio/mio_2.1.0_amd64.deb
+Size: 638624
+MD5sum: c8ede842951336c97abcdaf015da8137
+SHA1: 9136c1fd2aff48413838911dddd1fda844641f3f
+SHA256: d3ffc1234162e6cc8a47a6bf33923dc081e8413e5e34d9914869a8ac645953a0
+SHA512: 2447ef8687607f801671b7c049cdadef0f3eb3890fd342565fc1bc578d8010ab96bb23082deed2774d2afc41c1e43c15818fca8de4984794245d883c53ca04b6
+Homepage: https://github.com/mio-kobo/mio
+Description: Mio programming language (full)
+
