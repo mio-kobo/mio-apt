@@ -1,0 +1,19 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Tue, 10 Nov 2026 10:24:11 +0000
+Label: Mio
+Origin: MioKobo
+Suite: stable
+MD5Sum:
+ 84c526caa71499b982915fa1f6ee3784             1228 main/binary-amd64/Packages
+ 95190e9299bcd86d94b0fcabe0347a4d              651 main/binary-amd64/Packages.gz
+SHA1:
+ f46d3461dbf9cb68cc7724c27c8060d1c142dc95             1228 main/binary-amd64/Packages
+ 895d539c02b920af16140bd64c7514513abf4d3e              651 main/binary-amd64/Packages.gz
+SHA256:
+ 2beb0df2f0434ee3adf8345df26d674cf3309e905841fb94b75920a9949b16ad             1228 main/binary-amd64/Packages
+ d1dd1eba44bc517b92d96f485fe2cd31b122b67f060072da18a591639fae3915              651 main/binary-amd64/Packages.gz
+SHA512:
+ 2ec0e1efef86b2086596e0d2a7e58a2741753cbd21e9a1d1e5b6420a9b34874c9b700963f3a6aedecea93455a64b7fa608b2fac76a7d50f76d86b1a3c6fa8eeb             1228 main/binary-amd64/Packages
+ 2518829ac89eebeae03e0ed23889653b54a73146322eb1c51252066b98b4bb17282a07be880608a561eb12a6567e5ffa478b145de0feae5f46e100e699c19cb6              651 main/binary-amd64/Packages.gz
